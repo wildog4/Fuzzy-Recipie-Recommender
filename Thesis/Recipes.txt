@@ -1,0 +1,497 @@
+NUMBER OF RECIPES:20
+
+NAME:Parmesan Roasted Asparagus
+COOK:17
+PREP:8
+/*
+Ingredients
+2 1/2 pounds fresh asparagus (about 30 large)
+2 tablespoons olive oil
+1/2 teaspoon salt
+1/4 teaspoon black pepper
+1/2 cup grated Parmesan
+Optional Ingredients
+2 lemons cut in wedges, for serving
+
+Directions
+Preheat the oven to 400 degrees F.
+If the stalks of the asparagus are thick, peel the bottom 1/2 of each. Lay them in a single layer on a sheet pan and drizzle with olive oil. Sprinkle with salt and pepper.
+Roast for 15 to 20 minutes, until tender.
+Sprinkle with the Parmesan and return to the oven for another minute.
+Serve with lemon wedges. (optional)
+*/
+
+NAME:Stovetop Tuna Casserole
+COOK:10
+PREP:15
+/*
+Ingredients
+1/8 teaspoon pepper
+1 can (5 ounces) tuna in water, drained
+1 teaspoon chicken bouillon
+1 can (10.5 ounces) low sodium condensed cream of chicken soup
+8 ounces egg noodles (4 1/2 cups dry)
+2 cups frozen peas
+1/2 teaspoon onion powder
+1 Tablespoon prepared mustard
+1/3 cup nonfat or 1% milk
+
+Directions
+Cook noodles using package directions. Add peas for last three minutes. Drain.
+Mix remaining ingredients in a small bowl. Add to drained noodles, and stir well.
+Cook on low heat, stirring often, until heated through. Serve warm.
+Refrigerate leftovers within 2 hours.
+*/
+
+NAME:Marinated Carrot Salad
+COOK:250
+PREP:10
+/*
+Ingredients
+1 pound carrots, peeled
+1/2 cup onion, diced
+1/4 cup parsley, chopped
+1 tablespoon vinegar
+1 tablespoon water
+1 teaspoon sugar
+1/2 teaspoon salt
+Dash of white or black pepper
+2 tablespoons vegetable oil
+
+Directions
+Rinse carrots in cold water.
+Peel carrots, and place in saucepan of water.
+Bring water to boil and cook carrots 20 minutes.
+Slice carrots in 1/4 inch rounds. Dice onion and chop parsley. Put these into a medium size mixing bowl.
+Make marinade. With a fork, mix vinegar, water, sugar, salt & pepper in small bowl. Add oil and mix again.
+Add marinade to vegetables, and stir gently to combine. Refrigerate for 2 or more hours, to mix flavors.
+Serve cold. This salad will keep well in the refrigerator for up to 4 days.
+*/
+
+NAME:Grilled Cheese with Peaches
+COOK:10
+PREP:3
+/*
+Ingredients
+8 slices whole grain bread
+1 15-ounce can of sliced peaches, drained
+8 slices low-fat cheddar cheese
+8 ounces fresh spinach
+4 teaspoons vegetable oil
+
+Directions
+Heat the 4 teaspoons of vegetable oil in a large non-stick pan over medium heat.
+Place 4 slices of whole grain bread in the pan.
+Layer (in this order) one slice of cheese, a handful of spinach, 4 to 6 peach slices, another slice of cheese, and a slide of bread on top of each original slice of bread.
+After 4 to 5 minutes, flip each sandwich and cook another 4 to 5 minutes.
+*/
+
+NAME:Buffalo Cauliflower Bites
+COOK:20
+PREP:17
+/*
+Ingredients
+8 cups 1 1/2-inch cauliflower florets
+3 tablespoons extra-virgin olive oil
+1/4 teaspoon salt
+1-2 tablespoons Sriracha or other hot sauce, to taste
+1/2 teaspoon black pepper
+1 tablespoon lemon juice
+Cooking oil spray
+
+Directions
+Preheat oven to 450°F. Coat a large rimmed baking sheet with cooking spray.
+Toss cauliflower, oil and salt in a large bowl. Spread on the prepared baking sheet; reserve the bowl. Roast the cauliflower until it’s starting to soften and brown on the bottom, about 15 minutes.
+Meanwhile, combine hot sauce to taste, black pepper, and lemon juice in the large bowl. Add the roasted cauliflower and toss to coat. Return the cauliflower to the baking sheet and continue roasting until hot, about 5 minutes more.
+*/
+
+NAME:Apricot and Lemon Chicken
+COOK:15
+PREP:5
+/*
+Ingredients
+4 chicken breasts, boneless & skinless (medium)
+1 teaspoon cumin
+5 tablespoons apricot spread (about 1/3 cup)
+1 fresh lemon, juiced
+2 tablespoons water
+
+Directions
+Rub cumin over chicken and place in skillet.
+Cook on medium-high for 6 minutes on each side, or until cooked through. Remove from pan and keep warm.
+Add apricot spread, lemon juice, and water to skillet. On medium heat, stir until smooth.
+Spoon sauce over chicken and serve warm.
+*/
+
+NAME:Bacon & Spinach Stuffed Chicken
+COOK:35
+PREP:15
+/*
+Ingredients
+4 boneless skinless chicken breasts
+Kosher salt
+Freshly ground black pepper
+4 oz. cream cheese, softened 
+1/2 c. frozen spinach, defrosted and drained
+1/3 c. chopped artichoke hearts
+1 c. shredded mozzarella, divided 
+Pinch crushed red pepper flakes
+4 strips bacon, cut into 4 strips
+2 tbsp. extra-virgin olive oil 
+
+Directions
+Preheat oven to 400°. Line a large baking sheet with foil. Make slits widthwise in chicken, being careful not to cut all the way through chicken. Season with salt and pepper. Place on prepared baking sheet. 
+In a medium bowl, combine cream cheese, spinach, artichokes, and ½ cup of mozzarella. Season with salt, pepper, and a pinch of red pepper flakes. Fill every other slit with cream cheese mixture and fill remaining slits with a piece of bacon. Sprinkle remaining ½ cup mozzarella on top and drizzle with oil. 
+Bake until chicken is cooked through and bacon is crispy, 35 minutes.
+*/
+
+NAME:Baked Spaghetti
+COOK:45
+PREP:15
+/*
+Ingredients
+Cooking spray
+16 oz. spaghetti
+2 tbsp. extra-virgin olive oil
+1 medium yellow onion, finely chopped
+2 cloves garlic, minced
+1 lb. ground beef
+kosher salt
+Freshly ground black pepper
+1 tsp. Italian seasoning
+1 (28-oz.) can crushed tomatoes
+1/2 c. basil, chopped
+1 c. shredded mozzarella
+1/4 c. freshly grated Parmesan
+Chopped fresh parsley, for garnish
+
+Directions
+Preheat oven to 350°. Grease a medium baking dish with cooking spray. Cook spaghetti according to package directions until al dente, drain, and set aside.
+Meanwhile, in a large skillet over medium heat, heat oil. Add onions and cook until soft and translucent, about 5 minutes. Stir in garlic and cook until fragrant, 1 minute more. Add ground beef, season with salt, pepper, and Italian seasoning, and cook until no longer pink, about 8 minutes. Drain fat in a bowl lined with paper towels and return to pan. Pour in crushed tomatoes and basil and simmer until slightly reduced, about 10 minutes. Season with more salt and pepper to taste.
+Toss with spaghetti, then transfer to baking dish and top with mozzarella and Parmesan. Bake until cheese is melted and pasta is warmed through, about 20 minutes.
+Garnish with parsley and serve.
+*/
+
+NAME:Calzone
+COOK:40
+PREP:10
+/*
+Ingredients
+Cooking spray 
+1 3/4 lb. pizza dough
+All-purpose flour, for surface
+1 c. pizza sauce
+1 c. ricotta
+1/2 c. pepperoni 
+1 c. shredded mozzarella
+Extra-virgin olive oil, for brushing
+Kosher salt
+
+Directions
+Preheat oven to 500° and grease two large baking sheets with cooking spray. Divide pizza dough into 4 pieces. On a lightly floured surface, roll one piece of dough out into an 8" circle, about ¼" thick. Spoon pizza sauce in middle of dough, then dot with ricotta and top with pepperoni and mozzarella. 
+Gently fold dough in half, dampen seams with water and pinch together, then crimp edges all around. Repeat with remaining dough. Transfer to prepared baking sheets. Brush tops with oil and sprinkle with salt. Using kitchen scissors or a sharp knife, slit tops in 2 to 3 spots to create steam vents. 
+Bake until tops are golden and filling is bubbling, 20 minutes, brushing with more oil halfway through. Let cool 5 minutes before cutting open.
+*/
+
+NAME:Garlicky Spaghetti
+COOK:25
+PREP:10
+/*
+Ingredients
+6 cloves garlic, divided
+1/4 c. extra-virgin olive oil, divided
+1/2 c. panko bread crumbs
+1/4 tsp. crushed red pepper flakes
+Kosher salt
+1 lb. dry spaghetti
+1 tbsp. butter
+3 oil-packed anchovy filets, minced (optional)
+Juice and zest of 1/2 lemon
+1/3 c. freshly grated Parmesan (optional)
+1/3 c. freshly chopped parsley
+
+Directions
+Mince 3 garlic cloves. In a large skillet over medium-high heat, heat 3 tbsp olive oil. Add breadcrumbs and minced garlic and season with crushed red pepper flakes and salt. Cook until bread crumbs or golden and garlic is fragrant, about 3 minutes. Remove breadcrumbs onto a paper towel lined plate and wipe out skillet.
+Thinly slice remaining 3 cloves garlic. Place a large pot of salted water over high heat and bring to a boil. Prepare spaghetti according to package instructions, reserving at least 1 cup pasta water. 
+Meanwhile, return skillet to medium heat and add remaining tablespoon of olive oil and butter. When butter is melted, add sliced garlic and anchovies if using. Cook until garlic is fragrant and anchovies are dissolved, about 2 minutes. Lower heat to medium-low until pasta is done cooking. 
+Add pasta to skillet and toss. Stir in lemon juice, lemon zest, and Parmesan if using. Add pasta water to thicken sauce as needed. Stir in parsley and 3/4 of the bread crumbs and toss. Top with remaining bread crumbs and serve immediately.
+*/
+
+NAME:Cheesy Ground Beef Tacos
+COOK:15
+PREP:10
+/*
+Ingredients
+1 large onion, chopped
+1 lb. ground beef
+1 (15-oz.) can fire-roasted tomatoes
+1 (15-oz.) can black beans, drained and rinsed
+1 tbsp. taco seasoning
+kosher salt
+2 c. shredded cheddar or pepper jack
+8 Small flour tortillas
+Sliced green onions, for serving
+Sour cream, for serving
+
+Directions
+In a large skillet over medium-high heat, cook onion until soft, 6 minutes. Add beef and cook until no longer pink, 5 to 7 minutes more, then add tomatoes, black beans, and taco seasoning and season with salt. Stir until combined. Add cheese and stir until completely melted.
+Spoon mixture into flour tortillas and fold. Garnish with green onions and serve with sour cream.
+*/
+
+NAME:Lemon Pepper Chicken
+COOK:30
+PREP:15
+/*
+Ingredients
+1/2 c. all-purpose flour
+1 tbsp. lemon pepper seasoning
+1 tsp. kosher salt
+2 lemons, divided
+1 lb. boneless skinless chicken breasts, halved
+2 tbsp. extra-virgin olive oil
+1/2 c. Chicken broth Swanson Chicken Broth
+2 tbsp. butter
+2 cloves garlic, minced
+Freshly chopped parsley, for garnish
+
+Directions
+FOR OVEN:
+Preheat oven to 400°. In a medium bowl, whisk together flour, lemon pepper, salt, and zest of 1 lemon. Toss chicken breasts in the flour mixture until fully coated. Slice remaining lemon into thin rounds.
+In a large ovenproof skillet over medium-high heat, heat oil. Add chicken in a single layer and cook until golden on bottom, about 5 minutes, then flip chicken breasts.
+To skillet, add broth, butter, garlic, and lemon slices and bake until chicken is cooked through and sauce has reduced slightly, about 5 minutes.
+Spoon sauce on top of chicken and garnish with parsley.
+
+FOR STOVETOP:
+In a medium bowl, whisk together flour, lemon pepper, salt, and zest of 1 lemon. Toss chicken breasts in the flour mixture until fully coated. Slice remaining lemon into thin rounds.
+In a large ovenproof skillet over medium-high heat, heat oil. Add chicken in a single layer and cook until golden on bottom, about 5 minutes, then flip chicken breasts.
+To skillet, add broth, butter, garlic, and lemon slices and cook until chicken is cooked through and sauce has reduced slightly, 3 minutes.
+Spoon sauce on top of chicken and garnish with parsley.
+*/
+
+NAME:Shepard's Pie
+COOK:65
+PREP:20
+/*
+Ingredients
+FOR POTATOES:
+1 1/2 lb. potatoes, peeled
+Kosher salt
+4 tbsp. melted butter
+1/4 c. milk
+1/4 c. sour cream
+Freshly ground black pepper
+
+FOR BEEF MIXTURE:
+1 tbsp. extra-virgin olive oil
+1 large onion, chopped
+2 carrots, peeled and chopped
+2 cloves garlic, minced
+1 tsp. fresh thyme
+1 1/2 lb. ground beef
+1 c. frozen peas
+1 c. frozen corn
+2 tbsp. all-purpose flour
+2/3 c. low-sodium chicken broth
+1 tbsp. freshly chopped parsley, for garnish
+
+Directions
+Preheat oven to 400°. Make mashed potatoes: In a large pot, cover potatoes with water and add a generous pinch of salt. Bring to a boil and cook until totally soft, 16 to 18 minutes. Drain and return to pot.
+Use a potato masher to mash potatoes until smooth. Add melted butter, milk, and sour cream. Mash together until fully incorporated, then season with salt and pepper. Set aside.
+Make beef mixture: In a large, ovenproof skillet over medium heat, heat oil. Add onion, carrots, garlic, and thyme and cook until fragrant and softened, 5 minutes. Add ground beef and cook until no longer pink, 5 minutes more. Drain fat.
+Stir in frozen peas and corn and cook until warmed through, 3 minutes more. Season with salt and pepper.
+Sprinkle meat with flour and stir to evenly distribute. Cook 1 minute more and add chicken broth. Bring to a simmer and let mixture thicken slightly, 5 minutes.
+Top beef mixture with an even layer of mashed potatoes and bake until there is very little liquid visible and mashed potatoes are golden, about 20 minutes. Broil if desired.
+Garnish with parsley before serving.
+*/
+
+NAME:Spaghetti and Meatballs
+COOK:40
+PREP:20
+/*
+Ingredients
+1 lb. spaghetti
+1 lb. ground beef
+1/3 c. bread crumbs
+1/4 c. finely chopped parsley
+1/4 c. freshly grated Parmesan, plus more for serving
+1 egg
+2 garlic cloves, minced
+Kosher salt
+1/2 tsp. red pepper flakes
+2 tbsp. extra-virgin olive oil
+1/2 c. onion, finely chopped
+1 (28-oz.) can crushed tomatoes
+1 bay leaf
+Freshly ground black pepper
+
+Directions
+In a large pot of boiling salted water, cook spaghetti according to package instructions. Drain. 
+In a large bowl, combine beef with bread crumbs, parsley, Parmesan, egg, garlic, 1 teaspoon salt, and red pepper flakes. Mix until just combined then form into 16 balls.
+In a large pot over medium heat, heat oil. Add meatballs and cook, turning occasionally, until browned on all sides, about 10 minutes. Transfer meatballs to a plate.
+Add onion to pot and cook until soft, 5 minutes. Add crushed tomatoes and bay leaf. Season with salt and pepper and bring to a simmer. Return meatballs to pot and cover. Simmer until sauce has thickened, 8 to 10 minutes.
+Serve pasta with a healthy scoop of meatballs and sauce. Top with Parmesan before serving.
+*/
+
+NAME:Beef Stew
+COOK:85
+PREP:15
+/*
+Ingredients
+1 tbsp. vegetable oil
+2 lb. beef chuck stew meat, cubed into 1" pieces
+1 tbsp. extra-virgin olive oil
+1 onion, chopped
+2 carrots, peeled and cut into rounds
+2 stalks celery, chopped
+Kosher salt
+Freshly ground black pepper
+3 cloves garlic, minced
+1/4 c. tomato paste
+6 c. low-sodium beef broth
+1 c. red wine
+1 tbsp. Worcestershire sauce
+1 tsp. dried or fresh thyme leaves
+2 bay leaves
+1 lb. baby potatoes, halved
+1 c. frozen peas
+1/4 c. freshly chopped parsley, for garnish
+
+Directions
+In a large dutch oven or heavy-bottomed pot over medium heat, heat oil. Add beef and cook until seared on all sides, 10 minutes, working in batches if necessary. Transfer beef to a plate. 
+In the same pot, cook onion, carrots, and celery until soft, 5 minutes. Season with salt and pepper. Add garlic and tomato paste and cook until garlic is fragrant and tomato paste has darkened, 2 minutes. 
+Add beef back to dutch oven then add broth, wine, Worcestershire sauce, thyme, and bay leaves. 
+Bring to a boil then reduce heat to a simmer. Season with salt and pepper. Cover and let simmer until beef is tender, 30 to 45 minutes.
+Add potatoes and simmer, covered, until potatoes are tender, 15 minutes. 
+Remove bay leaves. Stir in peas and cook until warmed through, 2 minutes. Season stew to taste with salt and pepper, then ladle into serving bowls and garish with parsley. 
+*/
+
+NAME:Sloppy Joe Grilled Cheese
+COOK:20
+PREP:10
+/*
+Ingredients
+1 tbsp. extra-virgin olive oil
+1 medium onion, chopped
+1 lb. ground beef
+2 cloves garlic, minced
+1/2 c. ketchup
+1/3 c. packed brown sugar
+2 tbsp. yellow mustard
+1 tbsp. chili powder
+Kosher salt
+Freshly ground black pepper
+4 tbsp. Butter, for bread
+8 slices sandwich bread
+2 c. shredded cheddar
+
+Directions
+In a large skillet over medium heat, heat oil. Add onion and cook, stirring, until soft, about 5 minutes. Add ground beef and cook, stirring and breaking up meat, until no longer pink, 6 to 8 minutes. Drain fat.
+Return beef mixture to skillet over medium heat and stir in ketchup, garlic, brown sugar, mustard, and chili powder and season with salt and pepper. Simmer until thick, 5 minutes. Transfer mixture to a plate and wipe skillet clean.
+Assemble sandwiches: Butter one side of each bread slice. Place 1 slice butter-side down in skillet and spoon over sloppy joe mixture. Top with cup of cheddar cheese and one more slice bread, buttered-side up.
+Cook over medium heat until bread is golden and cheese is melty, about 3 minutes per side. Repeat with remaining ingredients to make 4 sandwiches total.
+*/
+
+NAME:Meatball Sub Soup
+COOK:20
+PREP:30
+/*
+Ingredients
+FOR THE MEATBALLS:
+1 lb. ground beef
+1/2 c. Italian bread crumbs
+2 cloves garlic, minced
+1/4 c. fresh Italian parsley, chopped
+1 tsp. crushed red pepper flakes
+kosher salt
+Freshly ground black pepper
+
+FOR THE SOUP:
+2 tbsp. extra-virgin olive oil
+1 large onion, diced
+1 large clove garlic, minced
+2 tbsp. tomato paste
+1 28-oz. can crushed tomatoes
+3 c. low-sodium beef broth
+1 c. skim milk
+3 c. shredded mozzarella
+1/2 c. freshly grated Parmesan
+1 tsp. dried oregano
+kosher salt
+Freshly ground black pepper
+Baguette slices, for serving
+
+Directions
+Make the meatballs: Preheat oven to 350º and line two baking sheets with parchment paper. In a large bowl, combine ground beef, bread crumbs, garlic, parsley, and crushed red pepper flakes and season with salt and pepper.
+Roll into meatballs and transfer to one prepared baking sheet.
+Bake until browned and cooked through, 15 minutes, then heat broiler.
+Make the soup: In a large pot over medium-high heat, heat oil. Add onion and cook until soft and golden, 6 minutes, then add garlic and cook until fragrant, 1 minute. Add tomato paste and stir until combined, then add tomatoes, beef broth, and milk and stir until combined.
+Add meatballs and bring to a simmer, then add half the mozzarella and all the Parmesan. Season with oregano, salt, and pepper.
+Ladle soup into four oven-safe ramekins and top with a baguette slice. Top with remaining mozzarella and broil until browned and bubbly, 2 to 3 minutes. Serve hot.
+*/
+
+NAME:Chicken 'n Waffles Casserole
+COOK:75
+PREP:15
+/*
+Ingredients
+10 toaster waffles
+1 (25-oz.) package frozen breaded chicken
+8 large eggs
+3/4 c. milk
+1/4 c. maple syrup, plus more for drizzling
+2 tbsp. butter, melted
+Kosher salt
+Freshly ground black pepper
+
+Directions
+Preheat oven to 400°. Place waffles and chicken on a two large baking sheets. Bake waffles until golden and crispy, 15 minutes. Continue baking chicken until warmed through and crispy, 30 minutes total. Cut both into large chunks. 
+In a large bowl, whisk together eggs, milk, maple syrup, and butter. Season with with salt and pepper.
+Reduce oven to 375°. In a 9”-x-13” baking pan layer waffles and breaded chicken then pour egg mixture on top. Bake until golden and set, 45 minutes to 1 hour. 
+Serve warm with maple syrup.
+*/
+
+NAME:BBQ Sheet Pan Chicken
+COOK:40
+PREP:20
+/*
+Ingredients
+2 medium sweet potatoes, chopped into 1/2" pieces
+1 tsp. chili powder
+1 head broccoli, chopped into florets
+olive oil
+kosher salt
+Freshly ground black pepper
+6 bone-in, skin-on chicken thighs
+1 1/2 c. barbecue sauce
+1/4 c. honey
+2 cloves garlic, minced
+
+Directions
+Preheat oven to 425 degrees F.
+Spread sweet potatoes and broccoli on a large sheet pan. Drizzle with olive oil, sprinkle with chili powder and season to taste with salt and pepper. Toss to combine.
+Season chicken with salt and pepper to taste, then spread the thighs on the sheet pan, pushing the vegetable aside to create space for the chicken. In a small bowl, whisk together barbecue sauce, honey and garlic. Pour a generous amount onto each chicken thigh.
+Bake until the chicken is cooked through and the vegetables are tender, about 30-40 minutes.
+*/
+
+NAME:Slow-Cooker Barbecue-Bourbon Chicken Wings
+COOK:180
+PREP:10
+/*
+2 lb. chicken wings
+1 c. barbecue sauce (store-bought or homemade), plus more for serving
+2 tbsp. bourbon
+kosher salt
+Freshly ground black pepper
+This ingredient shopping module is created and maintained by a third party, and imported onto this page. You may be able to find more information about this and similar content on their web site.
+ 
+DIRECTIONS
+Place chicken wings in a large slow-cooker.
+In a large bowl, mix together barbecue sauce and bourbon and season with salt and pepper. Pour mixture over chicken wings and stir to coat.
+Cover and cook on high until cooked through, 2 1/2 to 3 hours.
+Heat broiler. Line two baking sheets with parchment paper and pour wings onto them. Broil until crispy, 5 minutes.
+Serve with barbecue sauce.
+*/
+
+Recipes Were obtained at these websites:
+https://www.delish.com/cooking/recipe-ideas/g3166/cheap-easy-recipes/
+https://www.snapedny.org/snap-ed-ny-recipes/
